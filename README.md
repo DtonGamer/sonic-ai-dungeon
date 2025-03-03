@@ -26,11 +26,10 @@ sonic-ai-dungeon/
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
-5. Setup Instructions
+
+6. Setup Instructions
 Requirements:
-
 Node.js ≥18.x
-
 npm ≥9.x
 
 Installation:
